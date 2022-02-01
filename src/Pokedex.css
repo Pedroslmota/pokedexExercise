@@ -1,0 +1,13 @@
+.Pokedex {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	background-color: #cc0000;
+	margin: 0;
+}
+
+.Pokedex-Pokemon {
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
