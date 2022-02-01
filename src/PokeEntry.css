@@ -1,0 +1,34 @@
+.PokeEntry {
+	background-color: white;
+	text-align: center;
+	width: 12em;
+	padding: 10px;
+	border-radius: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 1rem;
+	box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
+}
+
+.PokeEntry-Background {
+	background-color: white;
+	border-radius: 20px;
+	padding: 1px 0px;
+}
+
+.PokeEntry-Name {
+	margin-bottom: 0;
+}
+
+.PokeEntry-ID {
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
+.PokeEntry-type {
+	margin-top: 1em;
+	margin-bottom: 0;
+}
+
+.PokeEntry-exp {
+	margin-top: .5em;
+}
